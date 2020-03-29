@@ -34,3 +34,7 @@ Mapa para fazer o Modelo de Entidade Relacional
 
 # Estudar sobre o CORS
 ### O Cors é um modulo de segurança, uma forma de proteger a aplicação é indicar quais dominios estão autorizados a acessar a aplicação -> Exemplo: cors({ origin: 'https://meuapp.com' });
+
+#### Usando o Celebrate para fazer validações do código
+O Express funciona como um telefone sem fio começando da esquerda para a direita
+TDD -> Test Driven Development
